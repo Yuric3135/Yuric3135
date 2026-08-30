@@ -1,24 +1,17 @@
-<!-- ========================================== -->
-<!-- Yuric3135 - GitHub Profile README (Remodeled) -->
-<!-- Theme: Tokyo Night / Dark Arcade Cyberpunk    -->
-<!-- ========================================== -->
-
 <div align="center">
 
-  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Yuric3135&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+%26+Security+Student+%F0%9F%9A%80;Building+Password+Pwned+Checker+API+%F0%9F%94%90;Exploring+Calculus%2C+Logic+%26+Full-Stack+Systems+%F0%9F%A7%AE;Arcade+%26+Retro+Gamer+%F0%9F%91%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%9A%80;Construindo+o+Password+Pwned+Checker+API+%F0%9F%94%90;Explorando+FastAPI%2C+TypeScript+e+k-Anonymity+%F0%9F%A7%AE;Arcade+%26+Retro+Gamer+%F0%9F%91%BE" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Quick Intro Badges -->
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- Troque pelos seus links reais -->
+  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://yuric3135.github.io/Password-Pwned-Checker-api-project/"><img src="https://img.shields.io/badge/Live_Demo-Password_Pwned_Checker-7aa2f7?style=for-the-badge&logo=fastapi&logoColor=white" alt="Password Checker" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -26,19 +19,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mim
 
 ```yaml
-Developer Profile:
-  Location: Espírito Santo (ES), Brazil 🇧🇷
-  Focus: Full-Stack Web Development, Cybersecurity & Cryptographic APIs
-  Current Learning: Computer Science Foundations, Advanced Calculus & Mathematical Logic
-  Philosophy: "Clean Code, k-Anonymity privacy, and high-performance user experiences."
+Perfil:
+  Localização: Espírito Santo (ES), Brasil 🇧🇷
+  Foco: Full-Stack Web Development & Cybersecurity
+  Cursando: Bacharelado em Sistemas de Informação (IFES) + ADS (UVV, EaD)
+  Filosofia: "Código limpo, privacidade por design (k-Anonymity) e aprender fazendo."
 ```
 
-* 🔭 **Currently Building**: [Password Pwned Checker API](https://github.com/Yuric3135/Password-Pwned-Checker-api-project) — A zero-knowledge password & email breach verification platform built with FastAPI, TypeScript, and k-Anonymity cryptography.
-* 🧮 **Academic Goals**: Preparing for top-tier Computer Science & Systems Engineering coursework (UFES / IFES).
-* 👾 **Outside Code**: Arcade gaming, retro classics (Pacman, Space Invaders), and exploring mathematical logic.
+* 🔭 **Construindo agora**: [Password Pwned Checker API](https://github.com/Yuric3135/Password-Pwned-Checker-api-project) — verificação de senhas e e-mails vazados usando as APIs do Have I Been Pwned e XposedOrNot, com criptografia k-Anonymity (a senha nunca sai do navegador).
+* 🎓 **Foco acadêmico**: Sistemas de Informação no IFES, com Python e TypeScript como stack principal.
+* 👾 **Fora do código**: games retrô (Pac-Man, Galaga) e lógica/matemática.
 
 ---
 
@@ -46,85 +39,54 @@ Developer Profile:
 
 <div align="center">
 
-  <!-- Pacman / Space / Arcade Contribution Animation -->
-  <p><b>🕹️ PACMAN & ARCADE COMMIT EATER</b></p>
-  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/main/github-contribution-grid-snake.svg" alt="Arcade Contribution Grid" width="100%" />
+  <p><b>🕹️ PAC-MAN COMENDO MEUS COMMITS</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+
+  <br/><br/>
+
+  <p><b>🚀 GALAGA ATIRANDO NO GRID</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph.svg" width="100%">
+  </picture>
 
 </div>
 
+> Essas duas imagens só aparecem depois que você trocar o `arcade.yml` do seu repositório `Yuric3135/Yuric3135` pelo corrigido, apagar o `arcade2.yml`, e a Action rodar pelo menos uma vez (dá pra forçar em Actions → Generate arcade animation → Run workflow).
+
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Tech Stack
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Languages</b></td>
-      <td align="center" width="25%"><b>Backend & Security</b></td>
-      <td align="center" width="25%"><b>Frontend & UI</b></td>
-      <td align="center" width="25%"><b>DevOps & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="top">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-      <td align="top">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/SHA--1_%2F_k--Anonymity-7AA2F7?style=flat-square&logo=shield&logoColor=white" />
-      </td>
-      <td align="top">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Responsive_Design-BB9AF7?style=flat-square&logo=artstation&logoColor=white" />
-      </td>
-      <td align="top">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,fastapi,git,github" height="50" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projeto em destaque
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">🔐 Password Pwned Checker API</h3>
       <p align="center">
-        <a href="https://yuric3135.github.io/Password-Pwned-Checker-api-project/"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Yuric3135/Password-Pwned-Checker-api-project"><b>📁 Repository</b></a>
+        <a href="https://yuric3135.github.io/Password-Pwned-Checker-api-project/"><b>🌐 Live Demo</b></a> •
+        <a href="https://github.com/Yuric3135/Password-Pwned-Checker-api-project"><b>📁 Repositório</b></a>
       </p>
-      <p>A production-ready security API and Web UI that verifies compromised passwords & emails using Have I Been Pwned and XposedOrNot public APIs. Built with zero-knowledge <b>k-Anonymity cryptography</b> so passwords never leave the browser.</p>
-      <p>
+      <p align="center">API e Web UI que verifica senhas e e-mails comprometidos usando as APIs públicas do Have I Been Pwned e XposedOrNot. Construído com k-Anonymity de conhecimento zero — a senha nunca sai do navegador.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🕹️ Yuric3135 Profile Arcade</h3>
-      <p align="center">
-        <a href="https://github.com/Yuric3135/Yuric3135"><b>📁 Repository</b></a>
-      </p>
-      <p>Automated, CI/CD-driven GitHub Profile featuring dynamic trophy generation, interactive contribution grid games (Pacman / Arcade / Snake), and real-time language analytics via GitHub Actions workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -136,19 +98,16 @@ Developer Profile:
 
 <div align="center">
 
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuric3135&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Yuric3135 Trophies" width="100%" />
+  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/trophy-output/trophy.svg?theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" width="100%" />
 
   <br/><br/>
 
-  <!-- Stats & Top Languages Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuric3135&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric3135&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuric3135&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuric3135&theme=dracula&hide_border=false&border_radius=5" height="160" alt="Streak Stats" />
 
 </div>
 
@@ -156,6 +115,8 @@ Developer Profile:
 
 <div align="center">
 
-  <sub>Designed with ❤️ and inspired by Tokyo Night & Arcade Aesthetics • © 2026 Yuric3135</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=100&section=footer" width="100%"/>
+
+  <sub>© 2026 Yuric3135</sub>
 
 </div>

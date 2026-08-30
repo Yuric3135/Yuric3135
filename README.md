@@ -1,133 +1,161 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<!-- ========================================== -->
+<!-- Yuric3135 - GitHub Profile README (Remodeled) -->
+<!-- Theme: Tokyo Night / Dark Arcade Cyberpunk    -->
+<!-- ========================================== -->
 
-###
+<div align="center">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Yuric3135&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+%26+Security+Student+%F0%9F%9A%80;Building+Password+Pwned+Checker+API+%F0%9F%94%90;Exploring+Calculus%2C+Logic+%26+Full-Stack+Systems+%F0%9F%A7%AE;Arcade+%26+Retro+Gamer+%F0%9F%91%BE" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Intro Badges -->
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yuric3135.github.io/Password-Pwned-Checker-api-project/"><img src="https://img.shields.io/badge/Live_Demo-Password_Pwned_Checker-7aa2f7?style=for-the-badge&logo=fastapi&logoColor=white" alt="Password Checker" /></a>
+  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+---
+
+### 👨‍💻 About Me
+
+```yaml
+Developer Profile:
+  Location: Espírito Santo (ES), Brazil 🇧🇷
+  Focus: Full-Stack Web Development, Cybersecurity & Cryptographic APIs
+  Current Learning: Computer Science Foundations, Advanced Calculus & Mathematical Logic
+  Philosophy: "Clean Code, k-Anonymity privacy, and high-performance user experiences."
+```
+
+* 🔭 **Currently Building**: [Password Pwned Checker API](https://github.com/Yuric3135/Password-Pwned-Checker-api-project) — A zero-knowledge password & email breach verification platform built with FastAPI, TypeScript, and k-Anonymity cryptography.
+* 🧮 **Academic Goals**: Preparing for top-tier Computer Science & Systems Engineering coursework (UFES / IFES).
+* 👾 **Outside Code**: Arcade gaming, retro classics (Pacman, Space Invaders), and exploring mathematical logic.
+
+---
+
+### 👾 Arcade & Interactive Zone
+
+<div align="center">
+
+  <!-- Pacman / Space / Arcade Contribution Animation -->
+  <p><b>🕹️ PACMAN & ARCADE COMMIT EATER</b></p>
+  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/main/github-contribution-grid-snake.svg" alt="Arcade Contribution Grid" width="100%" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 🛠️ Tech Stack & Toolbox
 
-<p data-importer="text" align="left">hello word</p>
+<div align="center">
 
-###
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="center" width="25%"><b>Backend & Security</b></td>
+      <td align="center" width="25%"><b>Frontend & UI</b></td>
+      <td align="center" width="25%"><b>DevOps & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="top">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td align="top">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SHA--1_%2F_k--Anonymity-7AA2F7?style=flat-square&logo=shield&logoColor=white" />
+      </td>
+      <td align="top">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Responsive_Design-BB9AF7?style=flat-square&logo=artstation&logoColor=white" />
+      </td>
+      <td align="top">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+### 🚀 Featured Projects
 
-###
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Password Pwned Checker API</h3>
+      <p align="center">
+        <a href="https://yuric3135.github.io/Password-Pwned-Checker-api-project/"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Yuric3135/Password-Pwned-Checker-api-project"><b>📁 Repository</b></a>
+      </p>
+      <p>A production-ready security API and Web UI that verifies compromised passwords & emails using Have I Been Pwned and XposedOrNot public APIs. Built with zero-knowledge <b>k-Anonymity cryptography</b> so passwords never leave the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🕹️ Yuric3135 Profile Arcade</h3>
+      <p align="center">
+        <a href="https://github.com/Yuric3135/Yuric3135"><b>📁 Repository</b></a>
+      </p>
+      <p>Automated, CI/CD-driven GitHub Profile featuring dynamic trophy generation, interactive contribution grid games (Pacman / Arcade / Snake), and real-time language analytics via GitHub Actions workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+---
+
+### 📊 GitHub Analytics & Trophies
+
+<div align="center">
+
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuric3135&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Yuric3135 Trophies" width="100%" />
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuric3135&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric3135&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuric3135&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<p data-importer="text" align="left">hello word</p>
+  <sub>Designed with ❤️ and inspired by Tokyo Night & Arcade Aesthetics • © 2026 Yuric3135</sub>
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuric3135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuric3135/Yuric3135/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
